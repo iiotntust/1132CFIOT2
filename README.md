@@ -1,6 +1,6 @@
 # Getting Started with Amazon AWS IoT Core using ESP32 || Creating Thing, Policy & Certificates
 - https://youtu.be/idf-gGXvIu4?si=jOv0A7agkGpNBCjQ
-# 1132CFIOT2
+# 1132CFIOT2 (with XAMPP, local webserverand database)
 - This implementation requires the server and database functions provided by XAMPP, combined with the temperature and humidity data read by the ESP32 used in CFIOT1, which will be transmitted back to the database.
 ## Hardware
 First, you need those hardware to construct the environment.
